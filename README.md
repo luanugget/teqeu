@@ -1,6 +1,5 @@
-## hi, I'm joseph also known as teq
+## hi, I'm nugget also known as joseph
 
-studying tsx & currently building [grim](https://grimbest.netlify.app/)
 
 ###### languages
 [![My skills](https://skillicons.dev/icons?i=python,lua,typescript,js,html,css&theme=dark)](https://grimbest.netlify.app)
