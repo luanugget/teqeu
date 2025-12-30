@@ -25,8 +25,6 @@ studying tsx & currently building [grim](https://grimbest.netlify.app/)
 ###### activity
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teqeu&theme=apprentice)
 
-###### top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teqeu)](https://github.com/teqeu)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=teqeu&color=7763fa" align="left" />
